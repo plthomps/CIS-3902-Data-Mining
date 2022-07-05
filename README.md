@@ -7,16 +7,11 @@ Getting Started:<br>
 
 ## SPRING 2022 Class
 
-### Textbook:  Murach's Python for Data Analysis
-
-### Markdown Tutorial <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a>
-<br>
-### Add tocolab after github in the URL to open in COLAB
-### if input is accessed via URL, no changes are needed to pd.read
+### Textbook:  Murach's Python for Data Analysis: the files below represent examples and startup files for the Murach text for class.
 
 <a name="tocb"></a>
 ### Table of Contents  (chapter content will be released each week)
-### Click on the link to access the assignment<br>
+### Click on the link to access the assignment. The notebook will open in Colab.  If you want to access the file for local use (Anaconda - Jupyter notebook) you can <br>
 1. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch01_examples.ipynb">Chapter 1 Examples</a>
 2. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch02_examples.ipynb">Chapter 2 Examples</a><br>
    <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ex_2-1_mortality.ipynb">Chapter 2 Lab</a>
