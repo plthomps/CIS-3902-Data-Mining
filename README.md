@@ -5,7 +5,7 @@ Getting Started:<br>
 2.  Sign in to Github.<br>
 3.  Follow instructions in Blackboard for the weekly assignments for class on https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/README.md.<br>
 
-## SPRING 2024 Class
+## SPRING 2025 Class
 
 ### Textbook:  Zybooks Machine Learning: required; Murach's Python for Data Analysis: optional
 
