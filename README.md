@@ -7,7 +7,7 @@ Getting Started:<br>
 
 ## SPRING 2025 Class
 
-### Textbook:  Zybooks Machine Learning: required; Murach's Python for Data Analysis: optional
+### Textbook:  Zybooks Machine Learning (required); Murach's Python for Data Analysis (optional)
 
 ### Markdown Tutorial <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a>
 <br>
