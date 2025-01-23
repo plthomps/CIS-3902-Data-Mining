@@ -5,14 +5,14 @@ Getting Started:<br>
 2.  Sign in to Github.<br>
 3.  Follow instructions in Blackboard for the weekly assignments for class on Blackboard.<br>
 
-## SPRING 2025 Class
+### SPRING 2025 Class
 
-<h3>Textbook:  Zybooks Machine Learning (required); Murach's Python for Data Analysis (optional)</h3>
-<h3>Spring 2025 Examples and Assignments (add "tocolab" after github in a notebook link to open the notebook in Colab)</h3><br>
+<h4>Textbook:  Zybooks Machine Learning (required); Murach's Python for Data Analysis (optional)</h4>
+<h4>Spring 2025 Examples and Assignments (add "tocolab" after github in a notebook link to open the notebook in Colab)</h4><br>
 1. <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a><br>
 2. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
 
-### For Previous Classes and Assignments see "READMEPreviousClass.md"
+#### For Previous Classes and Assignments see "READMEPreviousClass.md"
 
 
 
