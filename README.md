@@ -12,10 +12,13 @@ Getting Started:<br>
 ### Add tocolab after github in the URL to open in Colab - Open Souce Google Colab Jupyter Notebook
 ### You will need to sign in to a google account for Colab to open
 ### if input is accessed via URL, no changes are needed to pd.read
+<br>
+### Spring 2025 Assignments and Examples<br>
+1. <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Chapter_1_HW.ipynb">Exploring Various Ways to Input Files</a>
+
 
 <a name="tocb"></a>
-### Table of Contents  (chapter content will be released each week)
-### Click on the link to access the assignment<br>
+### Previous Assignments
 1. <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Chapter_1_HW.ipynb">Assignment 1 Mining the Classics</a>
 2. <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/NYC_Open_Data_Data_Visualization.ipynb">Assignment 2 Exploring Visualization NYC Fire Data</a>
 3. <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Customer_Segmentation_Using_Clustering_with_output.ipynb">Assignment 3 Customer Segmentation Using Clustering: Mall Data</a>
