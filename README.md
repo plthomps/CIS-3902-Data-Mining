@@ -8,7 +8,7 @@ Getting Started:<br>
 ### SPRING 2025 Class
 
 <p>Textbook:  Zybooks Machine Learning (required); Murach's Python for Data Analysis (optional)</p>
-<h4>Spring 2025 Examples and Assignments (add "tocolab" after github in a notebook link to open the notebook in Colab)</h4>
+<h4>Examples and Assignments (add "tocolab" after github in a notebook link to open the notebook in Colab)</h4>
 1. <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a><br>
 2. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
 
