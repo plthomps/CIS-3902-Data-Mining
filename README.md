@@ -12,6 +12,7 @@ Getting Started:<br>
 1. <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a><br>
 2. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
 3. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression with Scikit Learn</a><br>
+4. <a href=""https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Autoviz(3).ipynb">AutoML - Visualization - with AutoViz</a><br>
 
 <p>For Previous Classes and Assignments see "READMEPreviousClass.md"</p>
 
