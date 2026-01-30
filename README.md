@@ -5,7 +5,7 @@ Getting Started:<br>
 2.  Sign in to Github.<br>
 3.  Follow instructions in Blackboard for the weekly assignments for class on Blackboard.<br>
 
-### SPRING 2025 Class
+### SPRING 2026 Class
 
 <p>Textbook:  Zybooks Machine Learning (required); Murach's Python for Data Analysis (optional)</p>
 <h4>Examples and Assignments (add "tocolab" after github in a notebook link to open the notebook in Colab)</h4>
