@@ -14,7 +14,7 @@ Getting Started:<br>
 2. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
 3. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression with Scikit Learn</a><br>
 <p>Week of February 2 to February 8 (remote learning due to snow on Monday Feb 2)</p>
-1. <br>
+1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb/">Linear Regression-Bias-Variance-Overfitting Asssignment</a><br>
 <p>Additional Examples</p>
                                                                                    
 1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Autoviz3.ipynb">AutoML - Visualization - with AutoViz</a><br>
