@@ -22,7 +22,8 @@ Getting Started:<br>
 <p>Week of February 16 to February 22<br>
 1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/naive_bayes_example.ipynb/">Exploring Naive Bayes</a><br></p>
 <p>Week of February 23 to March 1st<br>
-1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/">Data Cleaning Exercise</a><br></p>
+1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/">Data Cleaning Tutorial</a><br></p>
+2. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise_Class.ipynb/">Data Cleaning Exercise</a><br></p>
 <p>Additional Examples<br>                                                                                  
 1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Autoviz3.ipynb">AutoML - Visualization - with AutoViz</a><br>
 2. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/TitanicwithXAI.ipynb">Titanic with Evaluation and XAI</a><br>
