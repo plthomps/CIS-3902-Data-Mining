@@ -27,7 +27,9 @@ Getting Started:<br>
 3. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/titanic_decision_tree.ipynb/">Decision Tree Example with the Titanic Data and Gini</a><br></p>
 <p>Week of March 2nd to March 8th<br>
 1. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Titanic_Seaborn_Decision_Tree.ipynb">Decision Trees and Evaluation Example</a><br>
+2. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Mushroom_Reduced_Student.ipynb">Practice Decision Trees with the Mushroom Dataset</a><br>
 </p>
+
 <p>Additional Examples<br>                                                                                  
 1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Autoviz3.ipynb">AutoML - Visualization - with AutoViz</a><br>
 2. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/TitanicwithXAI.ipynb">Titanic with Evaluation and XAI</a><br>
