@@ -22,8 +22,8 @@ Getting Started:<br>
 <p>Week of February 16 to February 22<br>
 1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/naive_bayes_example.ipynb/">Exploring Naive Bayes</a><br></p>
 <p>Week of February 23 to March 1st<br>
-1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/">Data Cleaning Tutorial</a><br></p>
-2. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise_Class.ipynb/">Data Cleaning Exercise</a><br></p>
+1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/">Data Cleaning Tutorial</a><br><br>
+2. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise_Class.ipynb/">Data Cleaning Exercise</a><br><br>
 3. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/titanic_decision_tree.ipynb/">Decision Tree Example with the Titanic Data and Gini</a><br></p>
 <p>Week of March 2nd to March 8th<br>
 1. <a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Titanic_Seaborn_Decision_Tree.ipynb">Decision Trees and Evaluation Example</a><br>
