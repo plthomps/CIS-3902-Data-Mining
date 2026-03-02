@@ -33,7 +33,8 @@ Getting Started:<br>
 <p>Additional Examples<br>                                                                                  
 1. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/Autoviz3.ipynb">AutoML - Visualization - with AutoViz</a><br>
 2. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/TitanicwithXAI.ipynb">Titanic with Evaluation and XAI</a><br>
-3. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/TitanicwithPycaret.ipynb">Titanic with Pycaret</a><br></p>
+3. <a href="https://githubtocolab.com/plthomps/CIS-3902-Data-Mining/blob/main/TitanicwithPycaret.ipynb">Titanic with Pycaret</a><br><br>
+4. <a href="https://learngitbranching.js.org/">Git Tutorial</a></p>
 <br>
 <p>For Previous Classes and Assignments see "READMEPreviousClass.md"</p>
 
